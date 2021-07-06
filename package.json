@@ -1,0 +1,19 @@
+{
+  "name": "genpass",
+  "version": "1.0.0",
+  "description": "Node password generator",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "commander": "^8.0.0"
+  }
+}
